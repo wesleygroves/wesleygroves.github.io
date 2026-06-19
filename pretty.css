@@ -175,17 +175,17 @@ queries */
     
     footer {
         height: 72px;
-        padding-top: 11px;
-        grid-template-columns: 42% 42%;
+        padding-top: 15px;
+        grid-template-columns: 52% 32%;
     }
 
     #socials img {
-        height: 48px;
+        height: 46px;
     }
     
     #contact p {
         font-size: 14px;
-        margin-top: 5px;
+        margin-top: 1px;
     }
    
 }
