@@ -142,7 +142,7 @@ queries */
     
     header {
         height: 72px;
-        padding-top: 17px;
+        padding-top: 18px;
     }
 
     nav {
@@ -153,7 +153,11 @@ queries */
 
     nav img {
         width: auto;
-        height: 36px;
+        height: 32px;
+    }
+
+    #nav_home {
+        margin-left: -16px;
     }
 
     #nav_menu {
@@ -170,22 +174,29 @@ queries */
         justify-content: center;
         grid-template-columns: 88%;
         margin-top: 30px;
-        margin-bottom: 32px;
+        margin-bottom: 66px;
     }
     
     footer {
-        height: 72px;
-        padding-top: 15px;
+        height: 110px;
+        padding-top: 10px;
         grid-template-columns: 52% 32%;
     }
 
+    #socials {
+        display: grid;
+        grid-template-columns: 45px 45px;
+        grid-template-rows: 45px 45px;
+        margin-left: 0%;
+    }
+
     #socials img {
-        height: 46px;
+        height: 50px;
     }
     
     #contact p {
         font-size: 14px;
-        margin-top: 1px;
+        margin-top: 54px;
     }
    
 }
