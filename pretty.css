@@ -144,7 +144,7 @@ queries */
     
     header {
         height: 72px;
-        padding-top: 18px;
+        padding-top: 19px;
     }
 
     nav {
@@ -155,7 +155,7 @@ queries */
 
     nav img {
         width: auto;
-        height: 32px;
+        height: 30px;
     }
 
     #nav_home {
