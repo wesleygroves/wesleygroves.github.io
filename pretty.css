@@ -110,10 +110,12 @@ footer {
     padding-bottom: 6px;
 }
 
-
+#contact p {
+    color: #262626;
+}
 
 #contact a:link {
-    color:#262626;
+    color: black;
     padding-left: 16px;
     text-decoration: none;
     text-align: right;
@@ -180,7 +182,7 @@ queries */
     footer {
         height: 110px;
         padding-top: 10px;
-        grid-template-columns: 52% 32%;
+        grid-template-columns: 46% 38%;
     }
 
     #socials {
